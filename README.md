@@ -6,4 +6,4 @@ Check out some of my projects, like 🏆 [Rafflr](https://rafflr.codesharegrow.n
 
 For other projects not hosted in GitHub, visit [Code Share Grow](https://codesharegrow.net).
 
-You can reach me on <a rel="me" href="https://toot.thoughtworks.com/@hectortortosa">Mastodon</a>.
+You can reach me on <a rel="me" href="https://techhub.social/@hectortosa">TechHub Mastodon</a>.
